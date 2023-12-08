@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
-<h3 align="none">A passionate frontend developer from London. I am currently working as a reinsurnace broker but looking to transition into software engineering.
+<h3 align="none">A passionate developer from London. I am currently working as a reinsurnace broker but looking to transition into software engineering.
 </h3>
 
 - 🔭 I’m currently working on **my own RESTful API**
