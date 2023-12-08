@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
-<h3 align="none">A passionate frontend developer from London. I am currently working as a reinsurnace broker but looking to transition into front-end software engineering.
-
+<h3 align="none">A passionate frontend developer from London. I am currently working as a reinsurnace broker but looking to transition into software engineering.
+<br>
 I love art, painting and creating and i enjoy coding and seeing my code function and create before my eyes so its a perfect fit!
 </h3>
 
-- 🔭 I’m currently working on **RESTful API**
+- 🔭 I’m currently working on **my own RESTful API**
 
 - 🌱 I’m currently learning **Java and Springboot**
 
