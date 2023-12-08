@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
-<h3 align="center">A passionate frontend developer from London. I am currently working as a reinsurnace broker but looking to transition into front-end software engineering.
+<h3 align="none">A passionate frontend developer from London. I am currently working as a reinsurnace broker but looking to transition into front-end software engineering.
 
 I love art, painting and creating and i enjoy coding and seeing my code function and create before my eyes so its a perfect fit!
 </h3>
