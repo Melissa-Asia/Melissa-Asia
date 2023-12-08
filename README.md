@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Melissa</h1>
 <h3 align="none">A passionate frontend developer from London. I am currently working as a reinsurnace broker but looking to transition into software engineering.
-<br>
-I love art, painting and creating and i enjoy coding and seeing my code function and create before my eyes so its a perfect fit!
 </h3>
 
 - 🔭 I’m currently working on **my own RESTful API**
@@ -12,7 +10,7 @@ I love art, painting and creating and i enjoy coding and seeing my code function
 
 - 📫 How to reach me **Asiamah.m98@gmail.com**
 
-- ⚡ Fun fact **I enjoy painting in my spare time**
+- ⚡ Fun fact **I enjoy art and painting in my spare time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
