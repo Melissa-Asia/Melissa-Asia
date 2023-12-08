@@ -5,14 +5,10 @@ I love art, painting and creating and i enjoy coding and seeing my code function
 
 Languages and Tools
 
- Melissa-Asia-patch-1
-![image]<iconify-icon icon="skill-icons:bootstrap"></iconify-icon><iconify-icon icon="skill-icons:html"><iconify-icon icon="skill-icons:java-light"><iconify-icon icon="skill-icons:javascript"></iconify-icon><iconify-icon icon="skill-icons:vscode-light"></iconify-icon></iconify-icon></iconify-icon><iconify-icon icon="skill-icons:github-dark"></iconify-icon>
-=======
+Melissa-Asia-patch-1
+![image]<iconify-icon icon="skill-icons:bootstrap"></iconify-icon><iconify-icon icon="skill-icons:html"><iconify-icon icon="skill-icons:java-light"><iconify-icon icon="skill-icons:javascript"></iconify-icon><span class="iconify" data-icon="skill-icons:css"></span><iconify-icon icon="skill-icons:vscode-light"></iconify-icon></iconify-icon></iconify-icon><iconify-icon icon="skill-icons:github-dark"></iconify-icon>
 <iconify-icon icon="skill-icons:bootstrap"></iconify-icon>
  main
-
-
-
 
 
 - 🔭 I’m currently working on... building small projects
