@@ -5,7 +5,7 @@ I love art, painting and creating and i enjoy coding and seeing my code function
 
 Languages and Tools
 
-![image](https://github.com/Melissa-Asia/Melissa-Asia/assets/56451612/34658596-4aee-495d-a48f-b82adf845b44)
+![image]<iconify-icon icon="skill-icons:bootstrap"></iconify-icon><iconify-icon icon="skill-icons:html"><iconify-icon icon="skill-icons:java-light"><iconify-icon icon="skill-icons:javascript"></iconify-icon><iconify-icon icon="skill-icons:vscode-light"></iconify-icon></iconify-icon></iconify-icon><iconify-icon icon="skill-icons:github-dark"></iconify-icon>
 
 
 
